@@ -1,0 +1,1 @@
+_veh = "UK3CB_BAF_Husky_Passenger_HMG_Green_MTP_RM" createVehicle getMarkerPos "vehiclespawn1";

@@ -1,0 +1,1 @@
+_veh = "UK3CB_BAF_MAN_HX58_Repair_Green_MTP_RM" createVehicle getMarkerPos "hgvspawn";
